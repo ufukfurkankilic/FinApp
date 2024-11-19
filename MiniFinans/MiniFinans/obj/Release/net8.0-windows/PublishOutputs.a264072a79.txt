@@ -1,0 +1,13 @@
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\MiniFinans.exe
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\selenium-manager\linux\selenium-manager
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\selenium-manager\macos\selenium-manager
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\selenium-manager\windows\selenium-manager.exe
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\MiniFinans.dll
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\MiniFinans.deps.json
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\MiniFinans.runtimeconfig.json
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\MiniFinans.pdb
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\AdvancedDataGridView.dll
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\HtmlAgilityPack.dll
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\WebDriver.dll
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\fr\AdvancedDataGridView.resources.dll
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\ru\AdvancedDataGridView.resources.dll

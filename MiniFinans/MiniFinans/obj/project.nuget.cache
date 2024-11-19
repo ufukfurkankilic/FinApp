@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "vsuD+Ad15d4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\furkan.kilic\\source\\repos\\MiniFinans\\MiniFinans\\MiniFinans.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\furkan.kilic\\.nuget\\packages\\adgv\\0.1.0.10\\adgv.0.1.0.10.nupkg.sha512",
+    "C:\\Users\\furkan.kilic\\.nuget\\packages\\htmlagilitypack\\1.11.71\\htmlagilitypack.1.11.71.nupkg.sha512",
+    "C:\\Users\\furkan.kilic\\.nuget\\packages\\selenium.webdriver\\4.26.1\\selenium.webdriver.4.26.1.nupkg.sha512",
+    "C:\\Users\\furkan.kilic\\.nuget\\packages\\selenium.webdriver.chromedriver\\131.0.6778.6900\\selenium.webdriver.chromedriver.131.0.6778.6900.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'ADGV 0.1.0.10' paketi, proje hedef çerçevesi 'net8.0-windows7.0' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "ADGV",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}

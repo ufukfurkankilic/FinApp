@@ -1,0 +1,13 @@
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\FinApp\MiniFinans.exe
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\FinApp\selenium-manager\linux\selenium-manager
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\FinApp\selenium-manager\macos\selenium-manager
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\FinApp\selenium-manager\windows\selenium-manager.exe
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\FinApp\MiniFinans.dll
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\FinApp\MiniFinans.deps.json
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\FinApp\MiniFinans.runtimeconfig.json
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\FinApp\MiniFinans.pdb
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\FinApp\AdvancedDataGridView.dll
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\FinApp\HtmlAgilityPack.dll
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\FinApp\WebDriver.dll
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\FinApp\fr\AdvancedDataGridView.resources.dll
+C:\Users\furkan.kilic\Desktop\Yeni klasör (2)\FinApp\ru\AdvancedDataGridView.resources.dll

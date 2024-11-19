@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\furkan.kilic\source\repos\MiniFinans\MiniFinans\Properties\PublishProfiles\FolderProfile3.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GelirEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GiderEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="KategoriEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Raporlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
